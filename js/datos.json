@@ -3,7 +3,47 @@
 	"canciones": [
 		
 		{
+			"nombre": "Guararé(Tito Goméz con Ray Barreto)",
+
+			"ruta": "canciones/guararé.mp3"
+		},
+		{
+			"nombre": "La Cartera (Junior Gonzales con Larry Harlow)",
+
+			"ruta": "canciones/lacartera.mp3"
+		},
+		{
+			"nombre": "Guaguanco Para Los Soneros (Nestor Sanchez con Larry Harlow)",
+
+			"ruta": "canciones/guaguancoparalossoneros.mp3"
+		},
+		{
+			"nombre": "Eco Del Tambor(Andy Montañez)",
+
+			"ruta": "canciones/ecodeltambor.mp3"
+		},
+		{
+			"nombre": "Con la Mayor Elegancia (Nestor Sanchez con Larry Harlow)",
+
+			"ruta": "canciones/conlamayorelegancia.mp3"
+		},
+		{
+			"nombre": "Poco a Poco (Josue Rosado con Willy Rosario)",
+
+			"ruta": "canciones/pocoapoco.mp3"
+		},
+		{
+			"nombre": "Casualidades (Junior Toledo con Willy Rosario)",
+
+			"ruta": "canciones/casualidades.mp3"
+		},
+		{
 			"nombre": "Monin (Jhonny Vasquez con la Dicupe)",
+
+			"ruta": "canciones/monin.mp3"
+		},
+		{
+			"nombre": "Mi Amigo el Payaso (Tony Vega con Willy Rosario)",
 
 			"ruta": "canciones/monin.mp3"
 		},
