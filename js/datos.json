@@ -3,6 +3,46 @@
 	"canciones": [
 		
 		{
+			"nombre": "Monin (Jhonny Vasquez con la Dicupe)",
+
+			"ruta": "canciones/monin.mp3"
+		},
+		{
+			"nombre": "Tintorera (Adalberto Santiago con la Tipica 73)",
+
+			"ruta": "canciones/tintorera.mp3"
+		},
+		{
+			"nombre": "Lamento de Concepción (Carlos Santos con Roberto Roena)",
+
+			"ruta": "canciones/lamentodeconcepcion.mp3"
+		},
+		{
+			"nombre": "La Vuelta al Mundo (Pablo Lebron con Los Lebrón)",
+
+			"ruta": "canciones/lavueltaalmundo.mp3"
+		},
+		{
+			"nombre": "Como es Duro Trabajar (Luigy Texidor)",
+
+			"ruta": "canciones/comoesdurotrabajar.mp3"
+		},
+		{
+			"nombre": "Ahora Sí (Yolanda Rivera con La Ponceña)",
+
+			"ruta": "canciones/ahorasi.mp3"
+		},
+		{
+			"nombre": "Amolador (Marvin Santiago con Bobby Valentin)",
+
+			"ruta": "canciones/amolador.mp3"
+		},
+		{
+			"nombre": "Hacha y Machete (Hector Lavoe)",
+
+			"ruta": "canciones/hachaymachete.mp3"
+		},
+		{
 			"nombre": "Solo Tu y Yo (Ray De La Paz)",
 
 			"ruta": "canciones/solotuyyo.mp3"
