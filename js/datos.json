@@ -3,6 +3,66 @@
 	"canciones": [
 		
 		{
+			"nombre": "Plante Bandera(Chamaco Ramirez con Tommy Olivencia)",
+
+			"ruta": "canciones/plantebandera.mp3"
+		},
+		{
+			"nombre": "Soledad(Miguelito Ortiz,Toñito Ledee,Yolanda Rivera con la Ponceña)",
+
+			"ruta": "canciones/soledad.mp3"
+		},
+		{
+			"nombre": "Margie(Willie Garcia con Ray Barreto)",
+
+			"ruta": "canciones/margie.mp3"
+		},
+		{
+			"nombre": "Verdadero Aniversario(Pellin Rodriguez con El Combo Del Ayer)",
+
+			"ruta": "canciones/verdaderoaniversario.mp3"
+		},
+		{
+			"nombre": "La Realidad(Frankie Hernandez con Bobby Valentin)",
+
+			"ruta": "canciones/larealidad.mp3"
+		},
+		{
+			"nombre": "Juventud Siglo XX(Junior Toledo con Willie Rosario)",
+
+			"ruta": "canciones/juventudsigloxx.mp3"
+		},
+		{
+			"nombre": "El Gato(Cano Estremera con Bobby Valentin)",
+
+			"ruta": "canciones/elgato.mp3"
+		},
+		{
+			"nombre": "Mirame de Frente(Adalberto Santiago con Ray Barreto)",
+
+			"ruta": "canciones/miramedefrente.mp3"
+		},
+		{
+			"nombre": "Cui Cui(Sammy Gonsalez con Roberto Roena)",
+
+			"ruta": "canciones/cuicui.mp3"
+		},
+		{
+			"nombre": "Bandolera(Hector Lavoe)",
+
+			"ruta": "canciones/bandolera.mp3"
+		},
+		{
+			"nombre": "Guasasa(Ismael Miranda con La Orqueta Harlow)",
+
+			"ruta": "canciones/guasasa.mp3"
+		},
+		{
+			"nombre": "Sonido Bestial(Richie Ray con Bobby Cruz)",
+
+			"ruta": "canciones/sonidobestial.mp3"
+		},
+		{
 			"nombre": "Guararé(Tito Goméz con Ray Barreto)",
 
 			"ruta": "canciones/guarare.mp3"
